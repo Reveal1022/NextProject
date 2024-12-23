@@ -18,7 +18,7 @@ import { GiWeightLiftingUp } from "react-icons/gi";
 export default function Home() {
   return (
     <div className=" h-[100vh]  mx-[8%] mb-20">
-      <div className="bg-[url('/bg6.jpg')] h-[90%] relative bg-cover text-white px-[100px] text-xl pt-10">
+      <div className="bg-[url('/bg6.jpg')] h-[90%] min-h-[800px] relative bg-cover text-white px-[100px] text-xl pt-10">
         <img
           src="models2.png"
           className="opacity-70 absolute right-0 bottom-0 h-[80%] "
